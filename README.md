@@ -1,3 +1,4 @@
-Unical password generator: Generates a password with unique characters and has a 26 character limit.
+Unical_password_generator.py - генерирует уникальный пароль, лимит - 26 символов.
+Password_generator.py - генерирует простой пароль, лимит 77 символов.
 
-Password generator: Generates a password with any number of characters(has a 77 limit for withdrawal)
+Интерфейс - Tkinter
